@@ -1,0 +1,10 @@
+influxdb:
+  host: "192.168.168.168"
+  port: 8086
+  dbname: "pingflux"
+  dbuser: "pingflux"
+  dbpass: "pingflux"
+
+hosts:
+  - hostaddress: "1.1.1.1"
+  - hostaddress: "google.com"
