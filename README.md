@@ -14,7 +14,7 @@
 - Monitor uptime and performance of network infrastructure
 - Build dashboards to spot spikes, downtime, or degraded performance
 
-
+---
 # Installation on Boot (Ubuntu)
 
 This guide shows how to set up **Pingflux** as a systemd service so it runs automatically on boot.
