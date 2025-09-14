@@ -15,11 +15,10 @@
 - Build dashboards to spot spikes, downtime, or degraded performance
 
 ---
+
 # Installation on Boot (Ubuntu)
 
 This guide shows how to set up **Pingflux** as a systemd service so it runs automatically on boot.
-
----
 
 ## 1. Create the service file
 Open a new service definition:

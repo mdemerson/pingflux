@@ -48,7 +48,7 @@ def get_fping_results(targets):
             # Check for timeout
             url = parts[1]
             if parts[4] == "timed":
-                ping = str("")
+                ping = None
             else:
                 ping = parts[6]
 
